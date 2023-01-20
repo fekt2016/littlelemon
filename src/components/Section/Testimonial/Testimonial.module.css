@@ -1,0 +1,21 @@
+.Testimonial {
+    background-color:#edefee ;
+    margin-bottom: 6rem;
+    padding-bottom: 4rem;
+}
+.test {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.heading {
+  text-align: center;
+  font-size: 2rem;
+  text-transform: capitalize;
+  margin-bottom: 4rem;
+}
+.text-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}

@@ -1,0 +1,48 @@
+.about {
+  max-width: 900px;
+  height: 20rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start;
+  padding: 2rem;
+  margin-bottom: 6rem;
+  position: relative;
+
+}
+.about-detail {
+  max-width: 400px;
+
+
+}
+.heading {
+  font-size: 2.5rem;
+  font-family: "lato", Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+}
+span {
+  display: block;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+p {
+  font-size: 1rem;
+}
+
+.photo {
+  width: 180px;
+  height: 250px;
+  position: absolute;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.photo1 {
+  right: 10rem;
+}
+.photo2 {
+  right: 15rem;
+  top: 6rem;
+}

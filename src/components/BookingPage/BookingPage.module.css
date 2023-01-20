@@ -1,0 +1,14 @@
+.bookingpage {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  margin-bottom: 6rem;
+
+}
+.booking-heading {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}

@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #005e00b6;
+    padding: 6rem;
+}
+.footer-detail {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1;
+
+
+}
+.home {
+    font-size: 1rem;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-bottom: .5rem;
+
+}
+.footer-list {
+
+    margin-right: 2rem;
+
+}
+.footer-list li{
+    list-style: none;
+}
+.footer-list li a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}

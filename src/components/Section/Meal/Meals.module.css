@@ -1,0 +1,20 @@
+.meal {
+max-width: 900px;
+margin: 0 auto;
+
+
+}
+.meals-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+}
+.meals {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6rem;
+}
+.h2 {
+    font-size: 1.6rem;
+    text-transform: capitalize;
+}

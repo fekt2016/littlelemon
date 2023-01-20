@@ -1,0 +1,21 @@
+.reserve-input {
+    width: 100%;
+    padding: .5rem;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+
+    outline: none;
+    font-size: 1.2rem;
+}
+
+.reserve-label{
+font-size: 1.2rem;
+}
+.reserve-select {
+    padding: .5rem;
+   width: 37rem;
+    border-radius: 6px;
+}

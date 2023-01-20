@@ -1,0 +1,30 @@
+.navlist {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-item {
+    margin-right: 2rem;
+    list-style: none;
+    padding-bottom: 1px;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+}
+  .nav-item:hover {
+    border-bottom: 2px solid #f4ce14;
+  }
+  .navlink {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    font-size: 1.2rem;
+  }
+
+  @media screen and (max-width: 746px) {
+    .navlist {
+      background-color: antiquewhite;
+    }
+  }
